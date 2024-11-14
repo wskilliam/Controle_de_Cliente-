@@ -1,0 +1,14 @@
+/home/william/Área de trabalho/Controle Clientes/bin/Debug/net8.0/Controle Clientes
+/home/william/Área de trabalho/Controle Clientes/bin/Debug/net8.0/Controle Clientes.deps.json
+/home/william/Área de trabalho/Controle Clientes/bin/Debug/net8.0/Controle Clientes.runtimeconfig.json
+/home/william/Área de trabalho/Controle Clientes/bin/Debug/net8.0/Controle Clientes.dll
+/home/william/Área de trabalho/Controle Clientes/bin/Debug/net8.0/Controle Clientes.pdb
+/home/william/Área de trabalho/Controle Clientes/obj/Debug/net8.0/Controle Clientes.GeneratedMSBuildEditorConfig.editorconfig
+/home/william/Área de trabalho/Controle Clientes/obj/Debug/net8.0/Controle Clientes.AssemblyInfoInputs.cache
+/home/william/Área de trabalho/Controle Clientes/obj/Debug/net8.0/Controle Clientes.AssemblyInfo.cs
+/home/william/Área de trabalho/Controle Clientes/obj/Debug/net8.0/Controle Clientes.csproj.CoreCompileInputs.cache
+/home/william/Área de trabalho/Controle Clientes/obj/Debug/net8.0/Controle Clientes.dll
+/home/william/Área de trabalho/Controle Clientes/obj/Debug/net8.0/refint/Controle Clientes.dll
+/home/william/Área de trabalho/Controle Clientes/obj/Debug/net8.0/Controle Clientes.pdb
+/home/william/Área de trabalho/Controle Clientes/obj/Debug/net8.0/Controle Clientes.genruntimeconfig.cache
+/home/william/Área de trabalho/Controle Clientes/obj/Debug/net8.0/ref/Controle Clientes.dll
